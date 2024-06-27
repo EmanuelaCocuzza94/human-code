@@ -1,0 +1,37 @@
+- Apri il frigo
+    - SE c'è tutto non vado a fare la spesa
+    - ALTRIMENTI prendo carta e penna
+- Controllo il cibo che manca a casa
+- Scrivo la lista delle cose da comprare     
+- Chiudo il frigo
+- Conservo la lista della spesa in borsa 
+- Mi cambio i vestiti per uscire 
+- Prendo la borsa e le chiavi della macchina 
+- Esco di casa chiudendo la porta
+- Prendo l'ascensore
+    - Vado al piano -2
+    - Apro il garage
+    - Entro in macchina
+    - Chiudo il garage
+    - SE, la macchina non ha benzina, vado a fare rifornimento
+    - ALTRIMENTI, guido fino al supermercato
+- Scendo dalla macchina prendendo la borsa
+- Entro al supermercato
+    - Prendo il carrello
+        - Cerco un item della lista 
+        - SE, lo trovo lo aggiungo nel carrello
+        - Passo all'item successivo
+        - Ripeto i passi per tutta la lista della spesa
+- Mi dirigo alla cassa  
+- Prendo tutto ciò che è nel carrello e lo appoggio in cassa
+- Prendo il portafoglio dalla borsa
+    - SE, non ho i coupon, prendo la carta di credito
+    - ALTRIMENTI, uso i coupon e la cifra restante la pago con la carta di credito
+ - Metto il mangiare nella busta della spesa
+ - Esco dal supermercato
+ - Scarico la spesa in macchina
+ - Riposo il carrello 
+ - Entro in macchina
+ - Guido fino a casa
+ 
+
